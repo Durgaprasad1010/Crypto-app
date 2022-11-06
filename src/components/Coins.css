@@ -64,4 +64,18 @@ img {
     .hide-mobile {
         display: none;
     }
+    .coin-name {
+        margin-left: -4rem;
+    }
+    .coin-price{
+        padding-left: 0;
+    }
+
+    .price-change{
+        padding-right: 0;
+    }
+
+    .coin-volume{
+        padding-right: 0;
+    }
 }
